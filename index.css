@@ -182,6 +182,7 @@ a {
         width: 375px;
         max-height: 100%;
         background-color: hsl(204, 43%, 93%);
+        padding: 0 0 0 14px;
         
     }
 
@@ -202,8 +203,8 @@ a {
         justify-content: flex-start;
         background-color: white;
         border-radius: 8px 8px 0 0;
-        padding: 40px 15px 20px 30px;
-        margin: 0 300px 0 0;
+        padding: 40px 20px 20px 30px;
+        margin: 0 300px 0 0px;
 
     }
     
@@ -216,7 +217,7 @@ a {
         background-color: hsl(179, 62%, 43%);
         border-radius: 0 0 0 8px;
         padding: 40px 20px 20px 30px;
-        margin: 0 300px 0 0;
+        margin: 0 300px 0 0px;
     }
     
     .grid-item-three {
@@ -227,7 +228,7 @@ a {
         justify-content: flex-start;
         background-color: rgba(78,190,190,255);
         padding: 40px 20px 20px 30px;
-        margin: 0 300px 0 0;
+        margin: 0 300px 0 0px;
     }
 
     .one-heading {
@@ -334,7 +335,7 @@ a {
         width: 918px;
         max-height: 100%;
         background-color: hsl(204, 43%, 93%);
-        justify-content: center;
+        padding: 0 0 0 250px;
         
     }
 
